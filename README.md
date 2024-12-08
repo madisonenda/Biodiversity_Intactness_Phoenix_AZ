@@ -1,4 +1,4 @@
-# Biodiversity_Intactness_Phoneix_AZ
+# Biodiversity_Intactness_Phoenix_AZ
 
 ## About this repository:
 This repository contains a brief analysis and visualization of the changes in biodiversity intactness from 2017 to 2020 in Phoneix, Arizona. Due to recent increases in urbanization in Maricopa County (the county the greater Phoenix metropolitan area is contained in), habitat loss for local species has also increased, jeopardizing the biodiversity of the region. 
