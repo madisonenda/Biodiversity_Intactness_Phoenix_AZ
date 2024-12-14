@@ -3,7 +3,7 @@
 ## About this repository:
 This repository contains a brief analysis and visualization of the changes in biodiversity intactness from 2017 to 2020 in Phoneix, Arizona. Due to recent increases in urbanization in Maricopa County (the county the greater Phoenix metropolitan area is contained in), habitat loss for local species has also increased, jeopardizing the biodiversity of the region. 
 
-In order to predict the potential effect this will have on the local ecosystem and the communities that interact with it, the changes in biodiversity must first be quantified and spatially integrated. The purpose of this project is to just that, over a period of 3 years. 
+In order to predict the potential effect this will have on the local ecosystem and the communities that interact with it, the changes in biodiversity must first be quantified and spatially integrated. The purpose of this project is to do just that, over a period of 3 years. 
 
 ![Phoenix Arizona Landscape. Source: lonelyplanet.com](https://lp-cms-production.imgix.net/2024-06/GettyImages-1288752517.jpg?w=1440&h=810&fit=crop&auto=format&q=75) 
 
