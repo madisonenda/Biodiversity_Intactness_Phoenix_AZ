@@ -23,7 +23,7 @@ In order to predict the potential effect this will have on the local ecosystem a
 ```
 Biodiversity_Intactness_Phoenix_AZ
 │_ README.md
-|_ biodiversity_impact.ipynb
+|_ BII_Phoenix_AZ(2).ipynb
 |_ .gitignore
 ```
 
