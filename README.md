@@ -22,9 +22,9 @@ In order to predict the potential effect this will have on the local ecosystem a
 - This repository contains only one notebook, which runs through how to complete the 'Data Analysis Objectives' above. To preserve the function of this github repository, the data has not been uploaded, but the contents are available through the links provided in the references section down below. 
 ```
 Biodiversity_Intactness_Phoenix_AZ
-│   README.md
-|   biodiversity_impact.ipynb
-|   .gitignore
+│_ README.md
+|_ biodiversity_impact.ipynb
+|_ .gitignore
 ```
 
 ## Data:
